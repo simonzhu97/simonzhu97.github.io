@@ -44,7 +44,6 @@
       description:
         - Developed backend MySQL database and frontend Streamlit dashboards for manufacturing metrics monitoring
         - Enhanced model explainability with gradient-based saliency maps in deep reinforcement learning algorithms
-        
 
     - title: Data Scientist Intern
       institution: Meta Platforms, Inc. 
