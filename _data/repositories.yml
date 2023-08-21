@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - simonzhu97
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - simonzhu97/2022-Spotify-Anime-music-Recommender
+  - simonzhu97/AI_PROJECT
+  - simonzhu97/FlightsDelayPrediction
+  - simonzhu97/PredictCreditCardFraud
